@@ -4,5 +4,5 @@ This is research paper implemenation of "FFA-Net: Feature Fusion Attention Netwo
 
 Feel Free to Correct me, if you find bug in my code.
 
-Official Paper: [https://ieeexplore.ieee.org/document/10423894](https://arxiv.org/abs/1911.07559)
+Official Paper: (https://arxiv.org/abs/1911.07559)
 <br>Authors: Xu Qin([https://orcid.org/0000-0001-5625-4147](https://arxiv.org/search/cs?searchtype=author&query=Qin,+X)) et.al
